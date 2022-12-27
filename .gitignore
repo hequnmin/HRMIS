@@ -5,3 +5,5 @@
 
 /.vs
 
+/PetaPoco/bin
+/PetaPoco/obj
